@@ -107,9 +107,9 @@ body {
     margin-top: 0;
  }
 
-@media screen and (min-device-width: 1367px) {
+@media screen and (min-device-width: 1280px) {
     .fixer
     {
-      width: 1366px;
+      width: 1280px;
     }
 }
