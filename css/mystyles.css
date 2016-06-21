@@ -107,6 +107,9 @@ body {
     margin-top: 0;
  }
 
-@media screen and (min-device-width: 769px) {
-    width: 768px;
+@media screen and (min-device-width: 1367px) {
+    .fixer
+    {
+      width: 1366px;
+    }
 }
