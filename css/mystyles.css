@@ -10,53 +10,42 @@
 }
 .row-footer {
   margin: 0px auto;
-  padding: 20px 0px;
-  background-color: #AfAfAf;
+  background-color: #2E6FA6;
+  color: black;
 }
 .jumbotron {
-  margin: 0px auto;
+  margin: -40px auto;
   background: white;
   color: black;
 }
-.carousel {
-  background: #1a237e;
-}
-.carousel .item {
-  height: 300px;
-}
-.carousel .item img {
-  left: 0;
-  min-height: 300px;
-  position: absolute;
-  top: 0;
-}
 .navbar-inverse {
-  background: #303f9f;
-  color: #ffffff;
+  background: #2E6FA6;
+  color: black;
   z-index:9999;
+  font-weight: bold;
 }
 .navbar-inverse .navbar-nav > .active > a {
-  background: #1a237e;
+  background: #0044CC;
   color: #ffffff;
 }
 .navbar-inverse .navbar-nav > .active > a:hover {
-  background: #1a237e;
+  background: #0044CC;
   color: #ffffff;
 }
 .navbar-inverse .navbar-nav > .active > a:focus {
-  background: #1a237e;
+  background: #0044CC;
   color: #ffffff;
 }
 .navbar-inverse .navbar-nav > .open > a {
-  background: #1a237e;
+  background: #0044CC;
   color: #ffffff;
 }
 .navbar-inverse .navbar-nav > .open > a:hover {
-  background: #1a237e;
+  background: #0044CC;
   color: #ffffff;
 }
 .navbar-inverse .navbar-nav > .open > a:focus {
-  background: #1a237e;
+  background: #0044CC;
   color: #ffffff;
 }
 .navbar-inverse .navbar-nav .open .dropdown-menu > li > a {
@@ -71,7 +60,7 @@
   color: #eeeeee;
 }
 address {
-  color: #0f0f0f;
+  color: black;
   font-size: 80%;
   margin: 0px;
 }
@@ -121,4 +110,19 @@ body {
 {
     white-space: normal;
     width: 120px; 
+}
+
+.ab:link {
+  font-weight: bold;
+  text-decoration: underline;
+  color: black;
+}
+.ab:visited {
+  font-weight: bold;
+  text-decoration: underline;
+  color: black;
+}
+.ab:hover, .ab:focus {
+  text-decoration: underline;
+  color: black;
 }
