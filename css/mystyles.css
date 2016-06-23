@@ -107,11 +107,18 @@ body {
     margin-top: 0;
  }
 
-@media screen and (min-device-width: 1280px) {
+@media screen and (min-device-width: 1367px) {
     body
     {
-      width: 1280px;
+      width: 70%;
       align: center;
       z-index: 0;
+      margin-left: 15%;
     }
+}
+
+.dl-horizontal dt 
+{
+    white-space: normal;
+    width: 120px; 
 }
