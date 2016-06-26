@@ -50,14 +50,14 @@
 }
 .navbar-inverse .navbar-nav .open .dropdown-menu > li > a {
   background-color: #303f9f;
-  color: #eeeeee;
+  color: #2E6FA6;
 }
 .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover {
   color: #000000;
 }
 .navbar-inverse .navbar-nav .open .dropdown-menu {
   background-color: #303f9f;
-  color: #eeeeee;
+  color: #2E6FA6;
 }
 address {
   color: black;
