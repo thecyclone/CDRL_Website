@@ -104,7 +104,11 @@ body {
 .dl-horizontal dt 
 {
     white-space: normal;
-    width: 120px; 
+    width: 30px; 
+}
+
+.dl-horizontal dd {
+    margin-left: 50px;
 }
 
 .ab:link {
