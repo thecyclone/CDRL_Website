@@ -10,7 +10,7 @@
 }
 .row-footer {
   margin: 0px auto;
-  background-color: #2E6FA6;
+  background-color: #990033;
   color: black;
 }
 .jumbotron {
@@ -19,46 +19,39 @@
   color: black;
 }
 .navbar-inverse {
-  background: #2E6FA6;
+  background: #990033;
   color: black;
   z-index:9999;
   font-weight: bold;
 }
 .navbar-inverse .navbar-nav > .active > a {
-  background: #0044CC;
+  background: #666633;
   color: #ffffff;
 }
 .navbar-inverse .navbar-nav > .active > a:hover {
-  background: #0044CC;
+  background: #666633;
   color: #ffffff;
 }
 .navbar-inverse .navbar-nav > .active > a:focus {
-  background: #0044CC;
+  background: #666633;
   color: #ffffff;
 }
 .navbar-inverse .navbar-nav > .open > a {
-  background: #0044CC;
+  background: #666633;
   color: #ffffff;
 }
 .navbar-inverse .navbar-nav > .open > a:hover {
-  background: #0044CC;
+  background: #666633;
   color: #ffffff;
 }
 .navbar-inverse .navbar-nav > .open > a:focus {
-  background: #0044CC;
+  background: #666633;
   color: #ffffff;
-}
-.navbar-inverse .navbar-nav .open .dropdown-menu > li > a {
-  background-color: #303f9f;
-  color: #2E6FA6;
 }
 .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover {
   color: #000000;
 }
-.navbar-inverse .navbar-nav .open .dropdown-menu {
-  background-color: #303f9f;
-  color: #2E6FA6;
-}
+
 body {
   align: center;
   z-index: 0;
@@ -83,7 +76,6 @@ body {
 /* Not important */
 .footer {
   background: #eee;
-  height: 1000px;
 }
 
 .dropdown:hover .dropdown-menu {
@@ -152,4 +144,9 @@ h6.panel-title {
 div {
     text-align: justify;
     text-justify: inter-word;
+}
+
+.panel-heading
+{
+  background: #990033;
 }
