@@ -148,3 +148,8 @@ h6.panel-title {
 .brdr {
   border:1px solid black;
 }
+
+div {
+    text-align: justify;
+    text-justify: inter-word;
+}
