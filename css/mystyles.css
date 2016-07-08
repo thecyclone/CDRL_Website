@@ -55,6 +55,8 @@
 body {
   align: center;
   z-index: 0;
+}
+.cal{
   font-family: Calibri;
   font-size: 15px;
 }
@@ -67,11 +69,6 @@ body {
 .affix {
   top: 0px;
   left: 0px;
-  right: 0px;
-}
-#carouselButtons {
-  bottom: 0px;
-  position: absolute;
   right: 0px;
 }
 
