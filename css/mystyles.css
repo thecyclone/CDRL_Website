@@ -10,7 +10,7 @@
 }
 .row-footer {
   margin: 0px auto;
-  background-color: #990033;
+  background-color: #00688B;
   color: black;
 }
 .jumbotron {
@@ -19,7 +19,7 @@
   color: black;
 }
 .navbar-inverse {
-  background: #990033;
+  background: #00688B;
   color: black;
   z-index:9999;
   font-weight: bold;
@@ -143,9 +143,4 @@ h6.panel-title {
 div {
     text-align: justify;
     text-justify: inter-word;
-}
-
-.panel-heading
-{
-  background: #990033;
 }
